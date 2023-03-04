@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 14 14">
+  <g id="Layer_2" data-name="Layer 2" transform="translate(-0.25 -0.25)" opacity="0.8">
+    <g id="clock" transform="translate(0.25 0.25)">
+      <rect id="Rectangle_133" data-name="Rectangle 133" width="14" height="14" transform="translate(14 14) rotate(180)" fill="#0a0413" opacity="0"/>
+      <path id="Path_197" data-name="Path 197" d="M8.078,2a6.078,6.078,0,1,0,6.078,6.078A6.078,6.078,0,0,0,8.078,2Zm0,10.941a4.862,4.862,0,1,1,4.862-4.862A4.862,4.862,0,0,1,8.078,12.941Z" transform="translate(-1.078 -1.078)" fill="#0a0413"/>
+      <path id="Path_198" data-name="Path 198" d="M13.539,9.031H12.016V7.508a.508.508,0,1,0-1.016,0V9.539a.508.508,0,0,0,.508.508h2.031a.508.508,0,0,0,0-1.016Z" transform="translate(-4.281 -2.766)" fill="#0a0413"/>
+    </g>
+  </g>
+</svg>

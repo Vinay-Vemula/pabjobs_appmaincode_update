@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <g id="Group_42" data-name="Group 42" transform="translate(-281 -516)">
+    <g id="Ellipse_35" data-name="Ellipse 35" transform="translate(281 516)" fill="rgba(255,255,255,0)" stroke="#ffa238" stroke-width="2">
+      <circle cx="16" cy="16" r="16" stroke="none"/>
+      <circle cx="16" cy="16" r="15" fill="none"/>
+    </g>
+    <g id="Layer_1" transform="translate(275.689 511.022)">
+      <path id="Path_234" data-name="Path 234" d="M18.078,24.7H17v1.078h8.621V24.7H24.544v-1.84l-2.471-2.471,2.471-2.471v-1.84h1.078V15H17v1.078h1.078v1.84l2.471,2.471-2.471,2.471Zm1.078-7.228V16.078h4.311v1.393l-2.155,2.155Zm2.155,3.679,2.155,2.155V24.7H19.155V23.305Z" fill="#ffa238"/>
+      <path id="Path_234_-_Outline" data-name="Path 234 - Outline" d="M25.921,26.077H16.7V24.4h1.078V22.735l2.347-2.347-2.347-2.347V16.378H16.7V14.7h9.221v1.678H24.844v1.664L22.5,20.388l2.347,2.347V24.4h1.078Zm-8.621-.6h8.021V25H24.244V22.984l-2.6-2.6,2.6-2.6V15.778h1.078V15.3H17.3v.478h1.078v2.015l2.6,2.6-2.6,2.6V25H17.3ZM23.766,25H18.855V23.181l2.455-2.455,2.455,2.455Zm-4.311-.6h3.711V23.43l-1.855-1.855L19.455,23.43Zm1.855-4.348L18.855,17.6V15.778h4.911V17.6Zm-1.855-2.7L21.311,19.2l1.855-1.855v-.969H19.455Z" fill="#ffa238"/>
+      <rect id="Rectangle_230" data-name="Rectangle 230" width="1.738" height="0.869" transform="translate(17.835 28.087)" fill="#ffa238"/>
+      <path id="Rectangle_230_-_Outline" data-name="Rectangle 230 - Outline" d="M-.3-.3H2.038V1.169H-.3ZM1.438.3H.3V.569H1.438Z" transform="translate(17.835 28.087)" fill="#ffa238"/>
+      <rect id="Rectangle_231" data-name="Rectangle 231" width="1.738" height="0.869" transform="translate(20.442 28.087)" fill="#ffa238"/>
+      <path id="Rectangle_231_-_Outline" data-name="Rectangle 231 - Outline" d="M-.3-.3H2.038V1.169H-.3ZM1.438.3H.3V.569H1.438Z" transform="translate(20.442 28.087)" fill="#ffa238"/>
+      <rect id="Rectangle_232" data-name="Rectangle 232" width="1.738" height="0.869" transform="translate(23.049 28.087)" fill="#ffa238"/>
+      <path id="Rectangle_232_-_Outline" data-name="Rectangle 232 - Outline" d="M-.3-.3H2.038V1.169H-.3ZM1.438.3H.3V.569H1.438Z" transform="translate(23.049 28.087)" fill="#ffa238"/>
+    </g>
+  </g>
+</svg>

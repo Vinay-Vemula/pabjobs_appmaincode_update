@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="60" height="60" viewBox="0 0 60 60">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.206" y1="0.093" x2="0.79" y2="0.903" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g id="Salary" transform="translate(-27 -269)">
+    <circle id="Ellipse_4" data-name="Ellipse 4" cx="30" cy="30" r="30" transform="translate(27 269)" fill="#c8a0fb"/>
+    <path id="Ellipse_24" data-name="Ellipse 24" d="M25.128.372a24.762,24.762,0,0,0-9.636,47.566A24.762,24.762,0,0,0,34.764,2.318,24.6,24.6,0,0,0,25.128.372m0-.372A25.128,25.128,0,1,1,0,25.128,25.128,25.128,0,0,1,25.128,0Z" transform="translate(31.872 273.872)" fill="url(#linear-gradient)"/>
+    <g id="cash-outline" transform="translate(11 210.841)">
+      <rect id="Rectangle_132" data-name="Rectangle 132" width="27.917" height="15.703" rx="2" transform="translate(59.917 95.862) rotate(180)" fill="none" stroke="#fff" stroke-linejoin="round" stroke-width="1.8"/>
+      <ellipse id="Ellipse_23" data-name="Ellipse 23" cx="4.885" cy="5.06" rx="4.885" ry="5.06" transform="translate(41.073 82.951)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8"/>
+      <path id="Path_196" data-name="Path 196" d="M57.287,84.516A4.516,4.516,0,0,1,52.772,80M32,84.516A4.516,4.516,0,0,0,36.516,80m20.772,9.934a4.516,4.516,0,0,0-4.516,4.516M32,89.934a4.516,4.516,0,0,1,4.516,4.516" transform="translate(1.315 0.761)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8"/>
+    </g>
+  </g>
+</svg>

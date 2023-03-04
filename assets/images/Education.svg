@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 14 14">
+  <g id="Layer_2" data-name="Layer 2" transform="translate(-0.079 -0.079)" opacity="0.8">
+    <g id="book-open" transform="translate(0.079 0.079)">
+      <rect id="Rectangle_227" data-name="Rectangle 227" width="14" height="14" transform="translate(14 14) rotate(180)" fill="#0a0413" opacity="0"/>
+      <path id="Path_230" data-name="Path 230" d="M13.867,4.13A.607.607,0,0,0,13.349,4l-4.8,1.1-4.8-1.116a.607.607,0,0,0-.527.127.636.636,0,0,0-.226.5v7.692a.628.628,0,0,0,.481.63l4.934,1.135h.271l4.934-1.135a.628.628,0,0,0,.481-.63V4.621A.636.636,0,0,0,13.867,4.13ZM4.233,5.409l3.7.851v6.4l-3.7-.851Zm8.635,6.4-3.7.851v-6.4l3.7-.851Z" transform="translate(-1.551 -2.033)" fill="#0a0413"/>
+    </g>
+  </g>
+</svg>

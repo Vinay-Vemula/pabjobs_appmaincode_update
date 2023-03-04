@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 14 14">
+  <g id="_4781814_clock_hour_minute_second_time_icon" data-name="4781814_clock_hour_minute_second_time_icon" transform="translate(0.039 0.039)" opacity="0.8">
+    <g id="Layer_2" data-name="Layer 2" transform="translate(1.31 1.31)">
+      <path id="Path_71" data-name="Path 71" d="M8.651,14.3A5.651,5.651,0,1,1,14.3,8.651,5.651,5.651,0,0,1,8.651,14.3Zm0-10.432a4.781,4.781,0,1,0,4.781,4.781A4.781,4.781,0,0,0,8.651,3.869Z" transform="translate(-3 -3)"/>
+      <path id="Path_72" data-name="Path 72" d="M17.825,13.737a.435.435,0,0,1-.309-.126l-2.391-2.391A.435.435,0,0,1,15,10.912V7.435a.435.435,0,1,1,.869,0v3.3l2.265,2.26a.435.435,0,0,1-.309.743Z" transform="translate(-9.784 -5.261)"/>
+    </g>
+    <g id="frame" transform="translate(-0.039 -0.039)">
+      <rect id="Rectangle_36" data-name="Rectangle 36" width="14" height="14" transform="translate(0)" fill="none"/>
+    </g>
+  </g>
+</svg>

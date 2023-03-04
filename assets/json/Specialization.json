@@ -1,0 +1,2021 @@
+[
+    {
+      "name": "Architectural Design"
+    },
+    {
+      "name": "Art and Design"
+    },
+    {
+      "name": "Building Information Modeling"
+    },
+    {
+      "name": "Building Technology"
+    },
+    {
+      "name": "Community Design"
+    },
+    {
+      "name": "Computer-aided Design"
+    },
+    {
+      "name": "Engineering"
+    },
+    {
+      "name": "Environment/sustainability"
+    },
+    {
+      "name": "Graphic Design"
+    },
+    {
+      "name": "Housing"
+    },
+    {
+      "name": "Animation"
+    },
+    {
+      "name": "Accounting Applications"
+    },
+    {
+      "name": "Systems Analysis"
+    },
+    {
+      "name": "Personal Information Management"
+    },
+    {
+      "name": "Programming Languages"
+    },
+    {
+      "name": "Internet Technologies"
+    },
+    {
+      "name": "Computer Graphics"
+    },
+    {
+      "name": "Music and Video Processing"
+    },
+    {
+      "name": "Cyber Law"
+    },
+    {
+      "name": "Marketing"
+    },
+    {
+      "name": "Human Resource Management"
+    },
+    {
+      "name": "Finance"
+    },
+    {
+      "name": "International Business"
+    },
+    {
+      "name": "Computer Applications"
+    },
+    {
+      "name": "Digital Marketing"
+    },
+    {
+      "name": "Retail Management"
+    },
+    {
+      "name": "Entrepreneurship"
+    },
+    {
+      "name": "Logistics Management"
+    },
+    {
+      "name": "Accounts and Finance"
+    },
+    {
+      "name": "Investment Management"
+    },
+    {
+      "name": "Financial Market"
+    },
+    {
+      "name": "Statistics"
+    },
+    {
+      "name": "Tourism and Travel Management"
+    },
+    {
+      "name": "Banking and Finance"
+    },
+    {
+      "name": "Banking and Insurance"
+    },
+    {
+      "name": "E-Commerce"
+    },
+    {
+      "name": "Economics"
+    },
+    {
+      "name": "Banking and Insurance"
+    },
+    {
+      "name": "Computer Applications"
+    },
+    {
+      "name": "Information Technology"
+    },
+    {
+      "name": "International Business"
+    },
+    {
+      "name": "Accountancy"
+    },
+    {
+      "name": "Business Economics"
+    },
+    {
+      "name": "Foreign Trade Management"
+    },
+    {
+      "name": "Accounts"
+    },
+    {
+      "name": "Arabic"
+    },
+    {
+      "name": "Biological Sciences"
+    },
+    {
+      "name": "Business Studies"
+    },
+    {
+      "name": "Child Development"
+    },
+    {
+      "name": "Commerce"
+    },
+    {
+      "name": "Computer Science"
+    },
+    {
+      "name": "Economics"
+    },
+    {
+      "name": "Education of Handicapped"
+    },
+    {
+      "name": "English"
+    },
+    {
+      "name": "Geography"
+    },
+    {
+      "name": "Home Science"
+    },
+    {
+      "name": "Information Technology"
+    },
+    {
+      "name": "Malayalam"
+    },
+    {
+      "name": "Maths"
+    },
+    {
+      "name": "Natural Science"
+    },
+    {
+      "name": "Physical Science"
+    },
+    {
+      "name": "Sanskrit"
+    },
+    {
+      "name": "Social Science"
+    },
+    {
+      "name": "Special Education – Locomotor and Neurological Disorder"
+    },
+    {
+      "name": "Special Education"
+    },
+    {
+      "name": "Special Education (Learning Disability)"
+    },
+    {
+      "name": "Special Education (Mental Retardation)"
+    },
+    {
+      "name": "Special Education (Visually Impaired)"
+    },
+    {
+      "name": "Tamil"
+    },
+    {
+      "name": "Oral Medicine, Diagnosis, and Radiology"
+    },
+    {
+      "name": "Oral and Maxillofacial Surgery"
+    },
+    {
+      "name": "Oral Pathology and Microbiology"
+    },
+    {
+      "name": "Conservative Dentistry and Endodontics"
+    },
+    {
+      "name": "Periodontal Surgery and Oral Implantology"
+    },
+    {
+      "name": "Pedodontics"
+    },
+    {
+      "name": "Public Health Dentistry"
+    },
+    {
+      "name": "Pharmaceutical Chemistry"
+    },
+    {
+      "name": "Pharmaceutical Technology"
+    },
+    {
+      "name": "Pharmaceutical Analysis and Quality Assurance"
+    },
+    {
+      "name": "Clinical Pharmacy"
+    },
+    {
+      "name": "Pharmaceutics"
+    },
+    {
+      "name": "Pharmacy Practice"
+    },
+    {
+      "name": "Pharmacognosy"
+    },
+    {
+      "name": "Pharmacology"
+    },
+    {
+      "name": "Pharmaceutical Marketing Management"
+    },
+    {
+      "name": "Quality Assurance"
+    },
+    {
+      "name": "Phytopharmaceuticals and Natural products"
+    },
+    {
+      "name": "Drug Discovery and Development"
+    },
+    {
+      "name": "Medicinal Chemistry"
+    },
+    {
+      "name": "Bulk Drugs"
+    },
+    {
+      "name": "Drug Regulatory Affairs"
+    },
+    {
+      "name": "Biopharmaceutics"
+    },
+    {
+      "name": "Industrial Pharmacy"
+    },
+    {
+      "name": "Agriculture"
+    },
+    {
+      "name": "Animation"
+    },
+    {
+      "name": "Aquaculture"
+    },
+    {
+      "name": "Aviation"
+    },
+    {
+      "name": "Biochemistry"
+    },
+    {
+      "name": "Computer Science"
+    },
+    {
+      "name": "Dietetics"
+    },
+    {
+      "name": "Electronic"
+    },
+    {
+      "name": "Fashion Technology"
+    },
+    {
+      "name": "Food Technology"
+    },
+    {
+      "name": "Forensic Science"
+    },
+    {
+      "name": "Forestry"
+    },
+    {
+      "name": "Medical Technology"
+    },
+    {
+      "name": "Microbiology"
+    },
+    {
+      "name": "Multimedia"
+    },
+    {
+      "name": "Nautical Science"
+    },
+    {
+      "name": "Nursing"
+    },
+    {
+      "name": "Nutrition"
+    },
+    {
+      "name": "Physiotherapy"
+    },
+    {
+      "name": "Psychology"
+    },
+    {
+      "name": "Genetics"
+    },
+    {
+      "name": "Information Technology"
+    },
+    {
+      "name": "Interior Design"
+    },
+    {
+      "name": "PCM"
+    },
+     {
+      "name": "Physics"
+    },
+     {
+      "name": "Chemistry"
+    },
+     {
+      "name": "Zoology"
+    },
+     {
+      "name": "Statistics"
+    },
+     {
+      "name": "Botany"
+    },
+     {
+      "name": "Home Science"
+    },
+     {
+      "name": "Mechanical Engineering"
+    },
+     {
+      "name": "Civil Engineering"
+    },
+     {
+      "name": "Electronics and Communication Engineering"
+    },
+     {
+      "name": "Computer Science and Engineering"
+    },
+     {
+      "name": "PCM"
+    },
+     {
+      "name": "Electrical Engineering"
+    },
+     {
+      "name": "Aeronautical Engineering"
+    },
+     {
+      "name": "Biotechnology Engineering"
+    },
+     {
+      "name": "Automobile Engineering"
+    },
+     {
+      "name": "International Law"
+    },
+     {
+      "name": "Business Law"
+    },
+     {
+      "name": "European Law"
+    },
+     {
+      "name": "Criminal Law"
+    },
+     {
+      "name": "Legal Studies"
+    },
+     {
+      "name": "Patent & Intellectual Property Law"
+    },
+     {
+      "name": "Civil & Private Law"
+    },
+    {
+      "name": "Public Law"
+    },
+    {
+      "name": "Actuarial Science"
+    },
+    {
+      "name": "Advanced Biochemistry"
+    },
+    {
+      "name": "Advertising Management & Public Relations"
+    },
+    {
+      "name": "Agricultural Biotechnology"
+    },
+    {
+      "name": "Agricultural Economics and Business Management"
+    },
+    {
+      "name": "Agricultural Economics"
+    },
+    {
+      "name": "Agricultural Engineering"
+    },
+    {
+      "name": "Agricultural Extension Education"
+    },
+    {
+      "name": "Agricultural Microbiology"
+    },
+    {
+      "name": "Agricultural Physics"
+    },
+    {
+      "name": "Agricultural Statistics"
+    },
+    {
+      "name": "Agricultural Botany"
+    },
+    {
+      "name": "Agriculture Chemistry & Soil Science"
+    },
+    {
+      "name": "Agro-meteorology"
+    },
+    {
+      "name": "Agroforestry"
+    },
+    {
+      "name": "Agronomy"
+    },
+    {
+      "name": "Airlines, Tourism & Hospitality Management"
+    },
+    {
+      "name": "Anatomy"
+    },
+    {
+      "name": "Animal Biotechnology"
+    },
+    {
+      "name": "Animal Science"
+    },
+    {
+      "name": "Animation and Visual Effects"
+    },
+    {
+      "name": "Anthropology"
+    },
+    {
+      "name": "Apparel and Textiles"
+    },
+    {
+      "name": "Apparel Technology and Management"
+    },
+    {
+      "name": "Applications of Mathematics"
+    },
+    {
+      "name": "Applied Biology"
+    },
+    {
+      "name": "Applied Chemistry"
+    },
+    {
+      "name": "Applied Econometrics & Business Forecasting"
+    },
+    {
+      "name": "Applied Economics"
+    },
+    {
+      "name": "Applied Electronics"
+    },
+    {
+      "name": "Applied Fisheries and Aquaculture"
+    },
+    {
+      "name": "Applied Genetics"
+    },
+    {
+      "name": "Applied Geography"
+    },
+    {
+      "name": "Applied Geology"
+    },
+    {
+      "name": "Applied Mathematics and Computing"
+    },
+    {
+      "name": "Applied Mathematics"
+    },
+    {
+      "name": "Applied Microbiology"
+    },
+    {
+      "name": "Applied Physics"
+    },
+    {
+      "name": "Applied Plant Science"
+    },
+    {
+      "name": "Applied Psychology"
+    },
+    {
+      "name": "Applied Statistics and Informatics"
+    },
+    {
+      "name": "Applied Zoology"
+    },
+    {
+      "name": "Aquaculture"
+    },
+    {
+      "name": "Aquatic Biology and Fisheries"
+    },
+    {
+      "name": "Architecture"
+    },
+    {
+      "name": "Astronomy and Space Physics"
+    },
+    {
+      "name": "Astronomy"
+    },
+    {
+      "name": "Astrophysics"
+    },
+    {
+      "name": "Audiology and Speech Rehabilitation"
+    },
+    {
+      "name": "Audiology"
+    },
+    {
+      "name": "Aviation"
+    },
+    {
+      "name": "Bacteriology"
+    },
+    {
+      "name": "Banking & Finance"
+    },
+    {
+      "name": "Bio-textiles"
+    },
+    {
+      "name": "Biochemistry"
+    },
+    {
+      "name": "Biodiversity & Conservation"
+    },
+    {
+      "name": "Bioinformatics"
+    },
+    {
+      "name": "Biological Sciences"
+    },
+    {
+      "name": "Biology"
+    },
+    {
+      "name": "Biomaterials and Tissue Engineering"
+    },
+    {
+      "name": "Biomedical Genetics"
+    },
+    {
+      "name": "Biomedical Science"
+    },
+    {
+      "name": "Biophysics"
+    },
+    {
+      "name": "Bioresource Management"
+    },
+    {
+      "name": "Bioscience"
+    },
+    {
+      "name": "Biostatistics"
+    },
+    {
+      "name": "Biotechnology"
+    },
+    {
+      "name": "Botany"
+    },
+    {
+      "name": "Chemical Sciences"
+    },
+    {
+      "name": "Chemistry"
+    },
+    {
+      "name": "Child Guidance and Family Counselling"
+    },
+    {
+      "name": "Child Health Nursing"
+    },
+    {
+      "name": "Clinical Microbiology"
+    },
+    {
+      "name": "Clinical Nutrition"
+    },
+    {
+      "name": "Clinical Psychology"
+    },
+    {
+      "name": "Clinical Research and Regulatory Affairs"
+    },
+    {
+      "name": "Clinical Research"
+    },
+    {
+      "name": "Clothing and Textiles"
+    },
+    {
+      "name": "Co-operation and Banking (Co-Operative Management)"
+    },
+    {
+      "name": "Coastal & Disaster Management"
+    },
+    {
+      "name": "Communication Media for Children"
+    },
+    {
+      "name": "Communication"
+    },
+    {
+      "name": "Computational Biology"
+    },
+    {
+      "name": "Computer Animation and Visual Effects"
+    },
+    {
+      "name": "Computer Applications"
+    },
+    {
+      "name": "Computer Communication"
+    },
+    {
+      "name": "Computer Science"
+    },
+    {
+      "name": "Computer Technology"
+    },
+    {
+      "name": "Conservation Biology"
+    },
+    {
+      "name": "Costume Design and Fashion"
+    },
+    {
+      "name": "Counseling Psychology"
+    },
+    {
+      "name": "Criminology & Criminal Justice"
+    },
+    {
+      "name": "Criminology"
+    },
+    {
+      "name": "Cyber Law and Information Security"
+    },
+    {
+      "name": "Dairy Engineering"
+    },
+    {
+      "name": "Dairy Science"
+    },
+    {
+      "name": "Dairy Technology"
+    },
+    {
+      "name": "Data Mining and Warehousing"
+    },
+    {
+      "name": "Development Communications"
+    },
+    {
+      "name": "Disaster Mitigation"
+    },
+    {
+      "name": "Drug Chemistry"
+    },
+    {
+      "name": "e-Learning Technology"
+    },
+    {
+      "name": "Earth Science & Resource Management"
+    },
+    {
+      "name": "Earth Science"
+    },
+    {
+      "name": "Eco Restoration"
+    },
+    {
+      "name": "Ecology & Environmental Science"
+    },
+    {
+      "name": "Economics"
+    },
+    {
+      "name": "Ecotourism"
+    },
+    {
+      "name": "Electro Chemistry"
+    },
+    {
+      "name": "Electronic Media"
+    },
+    {
+      "name": "Electronic Science"
+    },
+    {
+      "name": "Electronics & Communication"
+    },
+    {
+      "name": "Electronics and Instrumentation"
+    },
+    {
+      "name": "Electronics and Telecommunications"
+    },
+    {
+      "name": "Electronics"
+    },
+    {
+      "name": "Endocrinology"
+    },
+    {
+      "name": "Engineering Physics"
+    },
+    {
+      "name": "Entomology"
+    },
+    {
+      "name": "Entrepreneurship"
+    },
+    {
+      "name": "Environment & Solid Waste Management"
+    },
+    {
+      "name": "Environmental and Climate Change Management"
+    },
+    {
+      "name": "Environmental Management"
+    },
+    {
+      "name": "Environmental Science"
+    },
+    {
+      "name": "Epidemiology"
+    },
+    {
+      "name": "Extension and Communication"
+    },
+    {
+      "name": "Fabric and Apparel Designing"
+    },
+    {
+      "name": "Fashion & Textile Merchandising"
+    },
+    {
+      "name": "Fashion Design and Technology"
+    },
+    {
+      "name": "Fashion Designing"
+    },
+    {
+      "name": "Fermentation & Microbial Technology"
+    },
+    {
+      "name": "Financial Computing"
+    },
+    {
+      "name": "Financial Economics and Administration"
+    },
+    {
+      "name": "Financial Mathematics"
+    },
+    {
+      "name": "Financial Mathematics"
+    },
+    {
+      "name": "Floriculture and Landscaping"
+    },
+    {
+      "name": "Food Biotechnology"
+    },
+    {
+      "name": "Food Nutrition"
+    },
+    {
+      "name": "Food Processing Technology"
+    },
+    {
+      "name": "Food Science & Quality Control"
+    },
+    {
+      "name": "Food Science and Nutrition"
+    },
+    {
+      "name": "Food Science and Technology"
+    },
+    {
+      "name": "Food Science"
+    },
+    {
+      "name": "Food Technology"
+    },
+    {
+      "name": "Forensic Science & Criminology"
+    },
+    {
+      "name": "Forensic Sciences"
+    },
+    {
+      "name": "Forestry"
+    },
+    {
+      "name": "Fruit Science"
+    },
+    {
+      "name": "Game Design and Development"
+    },
+    {
+      "name": "Gaming"
+    },
+    {
+      "name": "Garment Manufacturing Technology"
+    },
+    {
+      "name": "Garment Production & Export Management"
+    },
+    {
+      "name": "General Biotechnology"
+    },
+    {
+      "name": "Genetics and Plant Breeding"
+    },
+    {
+      "name": "Genetics Engineering"
+    },
+    {
+      "name": "Genetics"
+    },
+    {
+      "name": "Genomics and Proteomics"
+    },
+    {
+      "name": "Genomics"
+    },
+    {
+      "name": "Geography"
+    },
+    {
+      "name": "Geoinformatics"
+    },
+    {
+      "name": "Geological Sciences"
+    },
+    {
+      "name": "Geology"
+    },
+    {
+      "name": "Geophysics"
+    },
+    {
+      "name": "Global Warming Reduction"
+    },
+    {
+      "name": "Green Business"
+    },
+    {
+      "name": "Green Technology"
+    },
+    {
+      "name": "Habitat and Population Studies"
+    },
+    {
+      "name": "Hardware & Networking"
+    },
+    {
+      "name": "Health and Yoga Therapy"
+    },
+    {
+      "name": "Herbal Science"
+    },
+    {
+      "name": "Home Management"
+    },
+    {
+      "name": "Home Science"
+    },
+    {
+      "name": "Hons. in Biochemistry"
+    },
+    {
+      "name": "Hons. in Botany"
+    },
+    {
+      "name": "Hons. in Chemistry"
+    },
+    {
+      "name": "Hons. in Computer Science"
+    },
+    {
+      "name": "Hons. in Environmental Science"
+    },
+    {
+      "name": "Hons. in Fermentation & Microbial Technology"
+    },
+    {
+      "name": "Hons. in Genetics"
+    },
+    {
+      "name": "Hons. in Industrial Chemistry"
+    },
+    {
+      "name": "Hons. in Mathematics"
+    },
+    {
+      "name": "Hons. in Microbiology"
+    },
+    {
+      "name": "Hons. in Molecular Biology & Biochemistry"
+    },
+    {
+      "name": "Hons. in Physics"
+    },
+    {
+      "name": "Hons. in Zoology"
+    },
+    {
+      "name": "Horticulture"
+    },
+    {
+      "name": "Hospital Administration"
+    },
+    {
+      "name": "Hospitality & Tourism Studies"
+    },
+    {
+      "name": "Hotel Management"
+    },
+    {
+      "name": "Human Development"
+    },
+    {
+      "name": "Human Genetics"
+    },
+    {
+      "name": "Human Physiology"
+    },
+    {
+      "name": "Hydrochemistry"
+    },
+    {
+      "name": "Hydrology"
+    },
+    {
+      "name": "Industrial Biotechnology"
+    },
+    {
+      "name": "Industrial Chemistry"
+    },
+    {
+      "name": "Industrial Engineering"
+    },
+    {
+      "name": "Industrial Mathematics"
+    },
+    {
+      "name": "Industrial Microbiology"
+    },
+    {
+      "name": "Information and Communication Technology"
+    },
+    {
+      "name": "Information Science"
+    },
+    {
+      "name": "Information Security and Cyber Forensics"
+    },
+    {
+      "name": "Information Technology and Management"
+    },
+    {
+      "name": "Information Technology"
+    },
+    {
+      "name": "Instrumentation Technology"
+    },
+    {
+      "name": "Integrated Biotechnology"
+    },
+    {
+      "name": "Interior Design"
+    },
+    {
+      "name": "Life Science"
+    },
+    {
+      "name": "Limnology & Fisheries"
+    },
+    {
+      "name": "Live Stock Production & Management"
+    },
+    {
+      "name": "Marine Biotechnology"
+    },
+    {
+      "name": "Marine Geophysics"
+    },
+    {
+      "name": "Marine Science"
+    },
+    {
+      "name": "Mass Communication & Journalism"
+    },
+    {
+      "name": "Mass Communication"
+    },
+    {
+      "name": "Materials Science"
+    },
+    {
+      "name": "Maternity Nursing"
+    },
+    {
+      "name": "Mathematical Ecology & Environment Studies"
+    },
+    {
+      "name": "Mathematical Science"
+    },
+    {
+      "name": "Mathematics and Computing"
+    },
+    {
+      "name": "Mathematics"
+    },
+    {
+      "name": "Maths & Computer Applications"
+    },
+    {
+      "name": "Maths & Statistics"
+    },
+    {
+      "name": "Media Technology"
+    },
+    {
+      "name": "Medical Biochemistry"
+    },
+    {
+      "name": "Medical Biotechnology"
+    },
+    {
+      "name": "Medical Imaging Technology"
+    },
+    {
+      "name": "Medical Microbiology"
+    },
+    {
+      "name": "Medical Physics"
+    },
+    {
+      "name": "Medical Radiation Physics"
+    },
+    {
+      "name": "Medical Surgical Nursing"
+    },
+    {
+      "name": "Medical Technology"
+    },
+    {
+      "name": "Medicinal Plants"
+    },
+    {
+      "name": "Mental Health"
+    },
+    {
+      "name": "Meteorology"
+    },
+    {
+      "name": "Microbiology & Immunology"
+    },
+    {
+      "name": "Microbiology"
+    },
+    {
+      "name": "Microelectronics and Advanced Communication"
+    },
+    {
+      "name": "Military Science"
+    },
+    {
+      "name": "Molecular Biology & Biochemistry"
+    },
+    {
+      "name": "Molecular Biology & Genetic Engineering"
+    },
+    {
+      "name": "Molecular Biology & Human Genetics"
+    },
+    {
+      "name": "Molecular Biology"
+    },
+    {
+      "name": "Multimedia and Animation"
+    },
+    {
+      "name": "Multimedia Technology"
+    },
+    {
+      "name": "Multimedia"
+    },
+    {
+      "name": "Museology"
+    },
+    {
+      "name": "Nano Sciences & Technology"
+    },
+    {
+      "name": "Nanotechnology"
+    },
+    {
+      "name": "Natural Resource Management"
+    },
+    {
+      "name": "Nematology"
+    },
+    {
+      "name": "Network Protocol Design"
+    },
+    {
+      "name": "Neuroscience"
+    },
+    {
+      "name": "Nuclear Medicine Technology"
+    },
+    {
+      "name": "Nursing"
+    },
+    {
+      "name": "Nutrition and Dietetics"
+    },
+    {
+      "name": "Nutrition and Food Processing"
+    },
+    {
+      "name": "Obstetrics and Gynecological Nursing"
+    },
+    {
+      "name": "Occupational Therapy"
+    },
+    {
+      "name": "Oceanography"
+    },
+    {
+      "name": "Olericulture"
+    },
+    {
+      "name": "Operation Research & Computer Applications"
+    },
+    {
+      "name": "Operational Research"
+    },
+    {
+      "name": "Optometry"
+    },
+    {
+      "name": "Orthopedics"
+    },
+    {
+      "name": "Osteopathy"
+    },
+    {
+      "name": "Paediatric Nursing"
+    },
+    {
+      "name": "Petroleum Geology"
+    },
+    {
+      "name": "Petroleum Technology"
+    },
+    {
+      "name": "Polymer Science"
+    },
+    {
+      "name": "Pharmaceutical Chemistry"
+    },
+    {
+      "name": "Pharmacology"
+    },
+    {
+      "name": "Photonics"
+    },
+    {
+      "name": "Physical Oceanography"
+    },
+    {
+      "name": "Physics"
+    },
+    {
+      "name": "Physiology"
+    },
+    {
+      "name": "Phytomedical Science & Technology"
+    },
+    {
+      "name": "Plant Pathology"
+    },
+    {
+      "name": "Plant Biology & Plant Biotechnology"
+    },
+    {
+      "name": "Plant Science"
+    },
+    {
+      "name": "Plant Biochemistry"
+    },
+    {
+      "name": "Pollution Control"
+    },
+    {
+      "name": "Post-harvest Technology"
+    },
+    {
+      "name": "Poultry Production"
+    },
+    {
+      "name": "Production Engineering"
+    },
+    {
+      "name": "Prosthodontics"
+    },
+    {
+      "name": "Psychiatric Nursing"
+    },
+    {
+      "name": "Psychological Counselling"
+    },
+    {
+      "name": "Psychology"
+    },
+    {
+      "name": "Public Health"
+    },
+    {
+      "name": "Regenerative Medicine"
+    },
+    {
+      "name": "Remote Sensing and GIS"
+    },
+    {
+      "name": "Renewable Energy"
+    },
+    {
+      "name": "Resource Management"
+    },
+    {
+      "name": "Respiratory Therapy"
+    },
+    {
+      "name": "Rural Development"
+    },
+    {
+      "name": "Rural Health"
+    },
+    {
+      "name": "Science and Technology Communication"
+    },
+    {
+      "name": "Seed Science & Technology"
+    },
+    {
+      "name": "Sericulture"
+    },
+    {
+      "name": "Service Industry Management"
+    },
+    {
+      "name": "Software Engineering"
+    },
+    {
+      "name": "Software System"
+    },
+    {
+      "name": "Soil and Water Conservation"
+    },
+    {
+      "name": "Soil Science"
+    },
+    {
+      "name": "Speech-Language Pathology"
+    },
+    {
+      "name": "Sports Science"
+    },
+    {
+      "name": "Statistics"
+    },
+    {
+      "name": "Stem Cell and Tissue Engineering"
+    },
+    {
+      "name": "Sugar Technology"
+    },
+    {
+      "name": "Sustainable Development"
+    },
+    {
+      "name": "System Administration & Networking"
+    },
+    {
+      "name": "Textile Design"
+    },
+    {
+      "name": "Tourism"
+    },
+    {
+      "name": "Toxicology"
+    },
+    {
+      "name": "Veterinary Medicine"
+    },
+    {
+      "name": "Veterinary Microbiology"
+    },
+    {
+      "name": "Veterinary Parasitology"
+    },
+    {
+      "name": "Veterinary Pharmacology & Toxicology"
+    },
+    {
+      "name": "Veterinary Physiology"
+    },
+    {
+      "name": "Veterinary Public Health"
+    },
+    {
+      "name": "Virology"
+    },
+    {
+      "name": "Visual Communication"
+    },
+    {
+      "name": "Water Management"
+    },
+    {
+      "name": "Wildlife Sciences"
+    },
+    {
+      "name": "Wood Science & Technology"
+    },
+    {
+      "name": "Yoga and Management"
+    },
+    {
+      "name": "Yoga"
+    },
+    {
+      "name": "Zoology"
+    },
+    {
+      "name": "Public Policy MRes"
+    },
+    {
+      "name": "Tissue Engineering for Regenerative Medicine"
+    },
+    {
+      "name": "Medical Sciences"
+    },
+    {
+      "name": "Public Health and Primary Care"
+    },
+    {
+      "name": "International Relations MRes"
+    },
+    {
+      "name": "Geography MRes"
+    },
+    {
+      "name": "Public Health and Primary Care"
+    },
+    {
+      "name": "Public Health and Primary Care Distance Learning"
+    },
+    {
+      "name": "Clinical Research Distance Learning"
+    },
+    {
+      "name": "Oncology"
+    },
+    {
+      "name": "Materials Research MRes"
+    },
+    {
+      "name": "Health and Social Care"
+    },
+    {
+      "name": "Clinical Research MRes"
+    },
+    {
+      "name": "Clinical Research"
+    },
+    {
+      "name": "Health and Social Care Distance Learning"
+    },
+    {
+      "name": "Public Health and Primary Care"
+    },
+    {
+      "name": "MRes Art: Exhibition Studies"
+    },
+    {
+      "name": "MRes Art: Theory and Philosophy"
+    },
+    {
+      "name": "MRes Art: Moving Image"
+    },
+    {
+      "name": "Clinical Management of Pain"
+    },
+    {
+      "name": "History"
+    },
+    {
+      "name": "Education"
+    },
+    {
+      "name": "Economics"
+    },
+    {
+      "name": "Biotechnology"
+    },
+    {
+      "name": "Physics"
+    },
+    {
+      "name": "Chemistry"
+    },
+    {
+      "name": "Sociology"
+    },
+    {
+      "name": "Mathematics"
+    },
+    {
+      "name": "Tamil"
+    },
+    {
+      "name": "Commerce"
+    },
+    {
+      "name": "Botany"
+    },
+    {
+      "name": "Zoology"
+    },
+    {
+      "name": "Computer Science"
+    },
+    {
+      "name": "Computer Science"
+    },
+    {
+      "name": "Embedded Systems"
+    },
+    {
+      "name": "Wireless Communications"
+    },
+    {
+      "name": "Power Engineering"
+    },
+    {
+      "name": "Management Information Systems"
+    },
+    {
+      "name": "Game Design and Game Development"
+    },
+    {
+      "name": "Petroleum Engineering"
+    },
+    {
+      "name": "Life Sciences"
+    },
+    {
+      "name": "Pharmacy"
+    },
+    {
+      "name": "Very-large-scale integration (VLSI)"
+    },
+    {
+      "name": "Finance"
+    },
+    {
+      "name": "Marketing"
+    },
+    {
+      "name": "Human Resource Management"
+    },
+    {
+      "name": "International Business"
+    },
+    {
+      "name": "Logistics & Supply Chain Management"
+    },
+    {
+      "name": "Big Data Analytics/ Data Science/ Business Analytics"
+    },
+    {
+      "name": "Operations Management"
+    },
+    {
+      "name": "Banking & Financial Services"
+    },
+    {
+      "name": "Insurance Business Management"
+    },
+    {
+      "name": "Rural Management"
+    },
+    {
+      "name": "Healthcare Management"
+    },
+    {
+      "name": "Pharmaceutical Management"
+    },
+    {
+      "name": "Retail Management"
+    },
+    {
+      "name": "Energy Management"
+    },
+    {
+      "name": "Infrastructure Management"
+    },
+    {
+      "name": "Agri-Business Management"
+    },
+    {
+      "name": "Entrepreneurship"
+    },
+    {
+      "name": "Family Managed Business"
+    },
+    {
+      "name": "Sustainability Management"
+    },
+    {
+      "name": "Dual Country Program"
+    },
+    {
+      "name": "Homeland Security"
+    },
+    {
+      "name": "Non-Profit Management"
+    },
+    {
+      "name": "International Affairs"
+    },
+    {
+      "name": "Health Field"
+    },
+    {
+      "name": "Criminal Justice"
+    },
+    {
+      "name": "Urban Development"
+    },
+    {
+      "name": "Transportation Systems"
+    },
+    {
+      "name": "Epidemiology"
+    },
+    {
+      "name": "Health services administration"
+    },
+    {
+      "name": "Environmental health science"
+    },
+    {
+      "name": "Disaster management and emergency readiness"
+    },
+    {
+      "name": "Biostatistics"
+    },
+    {
+      "name": "Maternal and Child Health"
+    },
+    {
+      "name": "Disaster Management"
+    },
+    {
+      "name": "Human Resource Management"
+    },
+    {
+      "name": "Personnel Management"
+    },
+    {
+      "name": "Criminology & Correction Administration"
+    },
+    {
+      "name": "Family & Child Welfare"
+    },
+    {
+      "name": "Urban and Rural Community Development"
+    },
+    {
+      "name": "Industrial Relation & Labour Welfare"
+    },
+    {
+      "name": "Civil Law"
+    },
+    {
+      "name": "Tax Law"
+    },
+    {
+      "name": "Criminal Law"
+    },
+    {
+      "name": "Corporate Law"
+    },
+    {
+      "name": "Commercial Law"
+    },
+    {
+      "name": "International Law"
+    },
+    {
+      "name": "Labour Law"
+    },
+    {
+      "name": "Real Estate Law"
+    },
+    {
+      "name": "Patent Law"
+    },
+    {
+      "name": "Competition Law"
+    },
+    {
+      "name": "Intellectual Property Law"
+    },
+    {
+      "name": "Mergers and Acquisition Law"
+    },
+    {
+      "name": "Tax Law"
+    },
+    {
+      "name": "Administrative Law"
+    },
+    {
+      "name": "Banking Law"
+    },
+    {
+      "name": "Master of Fine Arts in Applied Arts"
+    },
+    {
+      "name": "Master of Fine Arts in Painting"
+    },
+    {
+      "name": "Master of Fine Arts in Visual Communication"
+    },
+    {
+      "name": "Master of Fine Arts in Art History"
+    },
+    {
+      "name": "Master of Fine Arts in Acting"
+    },
+    {
+      "name": "Master of Fine Arts in Dance"
+    },
+    {
+      "name": "Master of Fine Arts in Creative Writing"
+    },
+    {
+      "name": "Master of Fine Arts in Photography"
+    },
+    {
+      "name": "Master of Fine Arts in Filmmaking"
+    },
+    {
+      "name": "Master of Fine Arts in Design"
+    },
+    {
+      "name": "Master of Fine Arts in Textile Design"
+    },
+    {
+      "name": "Master of Fine Arts in Pottery and Ceramics"
+    },
+    {
+      "name": "Master of Fine Arts in Sculpture"
+    },
+    {
+      "name": "Music Composition"
+    },
+    {
+      "name": "Music Managemen"
+    },
+    {
+      "name": "Carnatic Music"
+    },
+    {
+      "name": "Hindustani Classical Music"
+    },
+    {
+      "name": "Vocal Music"
+    },
+    {
+      "name": "Instrumental Music"
+    },
+    {
+      "name": "Educational Technology"
+    },
+    {
+      "name": "Educational Management"
+    },
+    {
+      "name": "Language Education"
+    },
+    {
+      "name": "Special Education"
+    },
+    {
+      "name": "Women Studies"
+    },
+    {
+      "name": "Environment Education"
+    },
+    {
+      "name": "Guidance and Counseling"
+    },
+    {
+      "name": "Rural Education"
+    },
+    {
+      "name": "Teacher Education"
+    },
+    {
+      "name": "Yoga Education"
+    },
+    {
+      "name": "Artificial Intelligence and Machine Learning"
+    },
+    {
+      "name": "Biomedical Engineering"
+    },
+    {
+      "name": "Computer Networking and Security"
+    },
+    {
+      "name": "Nanoelectronic Circuits and Systems"
+    },
+    {
+      "name": "Software"
+    },
+    {
+      "name": "Sustainable Energy"
+    },
+    {
+      "name": "Architectural conservation"
+    },
+    {
+      "name": "Building engineering and management"
+    },
+    {
+      "name": "Housing"
+    },
+    {
+      "name": "Urban design"
+    },
+    {
+      "name": "Landscape architecture"
+    },
+    {
+      "name": "Architectural design"
+    },
+    {
+      "name": "Sustainable architecture"
+    },
+    {
+      "name": "Transport planning"
+    },
+    {
+      "name": "Town and country planning"
+    },
+    {
+      "name": "Regional planning"
+    },
+    {
+      "name": "Industrial design"
+    },
+    {
+      "name": "Environmental planning"
+    },
+    {
+      "name": "Architecture and digital design"
+    },
+    {
+      "name": "Economics"
+    },
+    {
+      "name": "Finance"
+    },
+    {
+      "name": "Analytics"
+    },
+    {
+      "name": "Accounting"
+    },
+    {
+      "name": "Marketing"
+    },
+    {
+      "name": "Software Engineering"
+    },
+    {
+      "name": "Distributed Computing"
+    },
+    {
+      "name": "Advanced Computing"
+    },
+    {
+      "name": "Power Systems"
+    },
+    {
+      "name": "Instrumentation & Control Systems"
+    },
+    {
+      "name": "Micro Electronics and VLSI Design"
+    },
+    {
+      "name": "Thermal Engineering"
+    },
+    {
+      "name": "Computer Aided Design & Manufacturing"
+    },
+    {
+      "name": "Mechatronics Engineering"
+    },
+    {
+      "name": "Hydraulic and Water Resources Engineering"
+    },
+    {
+      "name": "Chemical Plant Design"
+    },
+    {
+      "name": "Chemical Process Design"
+    },
+    {
+      "name": "Aerodynamics"
+    },
+    {
+      "name": "Biomedical Engineering"
+    },
+    {
+      "name": "Systems Management"
+    },
+    {
+      "name": "Management Information Systems (MIS)"
+    },
+    {
+      "name": "Systems Development"
+    },
+    {
+      "name": "Systems Engineering"
+    },
+    {
+      "name": "Networking"
+    },
+    {
+      "name": "Internet working"
+    },
+    {
+      "name": "Application Software"
+    },
+    {
+      "name": "Software Development"
+    },
+    {
+      "name": "Troubleshooting"
+    },
+    {
+      "name": "Hydraulic"
+    },
+    {
+      "name": "Hardware Technology"
+    },
+    {
+      "name": "Business Analytics"
+    },
+    {
+      "name": "Finance"
+    },
+    {
+      "name": "Marketing Management"
+    },
+    {
+      "name": "Human Resource Management"
+    },
+    {
+      "name": "Operations"
+    },
+    {
+      "name": "International Business and Family Business & Entrepreneurship"
+    },
+    {
+      "name": "Computer Simulation for Risk & Operational Analytics"
+    },
+    {
+      "name": "Project Management"
+    },
+    {
+      "name": "Product Management"
+    },
+    {
+      "name": "Manufacturing Management"
+    },
+    {
+      "name": "Systems Engineering and Architecture"
+    },
+    {
+      "name": "Environmental Systems Analysis, Economics & Public Policy"
+    },
+    {
+      "name": "Applied Machine Learning"
+    },
+    {
+      "name": "Data Science for Business Intelligence"
+    },
+    {
+      "name": "Operations and Supply Chain Management"
+    },
+    {
+      "name": "Software Engineering"
+    },
+    {
+      "name": "Distributed Computing"
+    },
+    {
+      "name": "Advanced Computing"
+    },
+    {
+      "name": "Power Systems"
+    },
+    {
+      "name": "Instrumentation & Control Systems"
+    },
+    {
+      "name": "Micro Electronics and VLSI Design"
+    },
+    {
+      "name": "Thermal Engineering"
+    },
+    {
+      "name": "Computer Aided Design & Manufacturing"
+    },
+    {
+      "name": "Mechatronics Engineering"
+    },
+    {
+      "name": "Hydraulic and Water Resources Engineering"
+    },
+    {
+      "name": "Chemical Plant Design"
+    },
+    {
+      "name": "Chemical Process Design"
+    },
+    {
+      "name": "Aerodynamics"
+    },
+    {
+      "name": "Biomedical Engineering"
+    }
+]    

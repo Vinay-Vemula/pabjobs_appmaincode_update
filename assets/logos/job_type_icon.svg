@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="60" height="60" viewBox="0 0 60 60">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.206" y1="0.093" x2="0.79" y2="0.903" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g id="Job_Type" data-name="Job Type" transform="translate(-158 -269)">
+    <circle id="Ellipse_5" data-name="Ellipse 5" cx="30" cy="30" r="30" transform="translate(158 269)" fill="#ffa2c5"/>
+    <g id="Layer_2" data-name="Layer 2" transform="translate(173.75 284.75)">
+      <g id="clock" transform="translate(0.25 0.25)">
+        <rect id="Rectangle_133" data-name="Rectangle 133" width="28" height="28" transform="translate(28 28) rotate(180)" fill="#fff" opacity="0"/>
+        <path id="Path_197" data-name="Path 197" d="M13.849,2A11.849,11.849,0,1,0,25.7,13.849,11.849,11.849,0,0,0,13.849,2Zm0,21.328a9.479,9.479,0,1,1,9.479-9.479A9.479,9.479,0,0,1,13.849,23.328Z" transform="translate(0.151 0.151)" fill="#fff"/>
+        <path id="Path_198" data-name="Path 198" d="M16.924,11.74H13.37V8.185a1.185,1.185,0,1,0-2.37,0v4.74a1.185,1.185,0,0,0,1.185,1.185h4.74a1.185,1.185,0,0,0,0-2.37Z" transform="translate(1.815 1.076)" fill="#fff"/>
+      </g>
+    </g>
+    <path id="Ellipse_24" data-name="Ellipse 24" d="M25.128.372a24.762,24.762,0,0,0-9.636,47.566A24.762,24.762,0,0,0,34.764,2.318,24.6,24.6,0,0,0,25.128.372m0-.372A25.128,25.128,0,1,1,0,25.128,25.128,25.128,0,0,1,25.128,0Z" transform="translate(163 274)" fill="url(#linear-gradient)"/>
+  </g>
+</svg>

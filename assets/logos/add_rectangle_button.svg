@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <g id="Group_55" data-name="Group 55" transform="translate(-259 -69)">
+    <path id="Rectangle_201_-_Outline" data-name="Rectangle 201 - Outline" d="M6,1A5.006,5.006,0,0,0,1,6v8a5.006,5.006,0,0,0,5,5h8a5.006,5.006,0,0,0,5-5V6a5.006,5.006,0,0,0-5-5H6M6,0h8a6,6,0,0,1,6,6v8a6,6,0,0,1-6,6H6a6,6,0,0,1-6-6V6A6,6,0,0,1,6,0Z" transform="translate(259 69)" fill="#fff"/>
+    <g id="Icon_feather-plus" data-name="Icon feather-plus" transform="translate(257.858 67.858)">
+      <path id="Path_217" data-name="Path 217" d="M18,15.483a.7.7,0,0,1-.7-.7V7.5a.7.7,0,0,1,1.4,0v7.283A.7.7,0,0,1,18,15.483Z" transform="translate(-6.858)" fill="#fff"/>
+      <path id="Path_218" data-name="Path 218" d="M14.783,18.7H7.5a.7.7,0,0,1,0-1.4h7.283a.7.7,0,0,1,0,1.4Z" transform="translate(0 -6.858)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
