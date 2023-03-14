@@ -16,6 +16,7 @@ import 'package:pabjobs/splash_screen.dart';
 
 import 'package:pabjobs/theme/color_theme.dart';
 import 'package:pabjobs/theme/text_theme.dart';
+import 'package:url_launcher/url_launcher.dart';
 
 class ProfileDetails extends StatefulWidget {
   const ProfileDetails({Key? key}) : super(key: key);
@@ -384,6 +385,45 @@ class _ProfileDetailsState extends State<ProfileDetails> {
                                       ),
                                     ),
                                     title: Text('Logout',
+                                        style: PABTextTheme.content.copyWith(
+                                            fontSize: 14,
+                                            fontWeight: FontWeight.bold)),
+                                    trailing: Padding(
+                                      padding: const EdgeInsets.all(15),
+                                      child: Transform.rotate(
+                                          angle: 180 * pi / 180,
+                                          child:
+                                              const Icon(Icons.arrow_back_ios)),
+                                    ),
+                                  ),
+                                ),
+                              ),
+                              const SizedBox(height: 14),
+                              InkWell(
+                                onTap: () {
+                                  // ignore: deprecated_member_use
+                                  launch('tel: +04066612999');
+                                },
+                                child: Container(
+                                  decoration: const BoxDecoration(
+                                      color: Colors.white,
+                                      borderRadius: BorderRadius.all(
+                                        Radius.circular(16),
+                                      )),
+                                  child: ListTile(
+                                    leading: Container(
+                                      decoration: const BoxDecoration(
+                                          color: Color(0xffF5F5F5),
+                                          borderRadius: BorderRadius.all(
+                                            Radius.circular(12),
+                                          )),
+                                      height: 42,
+                                      width: 42,
+                                      child: Icon(Icons.delete,
+                                        
+                                      ),
+                                    ),
+                                    title: Text('Delete Account',
                                         style: PABTextTheme.content.copyWith(
                                             fontSize: 14,
                                             fontWeight: FontWeight.bold)),
